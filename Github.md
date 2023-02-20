@@ -21,3 +21,9 @@ Reference Links:
 
 ## Change Submitted Commit
  [How to modify](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message)
+ 
+## GitHub glossary
+[Terminology search](https://docs.github.com/en/get-started/quickstart/github-glossary)
+
+## Git cheatsheet
+[Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
