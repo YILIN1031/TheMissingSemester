@@ -1,7 +1,0 @@
-#!/bin/bash
-
-# read default: supply a default value if user presses an Enter key. 
-
-#read -e -p "What is your name? " -i $USER
-read   -e -p "What is your name? " -i $USER 
-echo "Your answer: $REPLY."
