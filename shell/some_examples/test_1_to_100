@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# determine if an integer is within a specified range of values 
+
+MAX_VAL=100
+MIN_VAL=0
+TEST_NUM=37
+
+if [[ "$TEST_NUM" =~ ^-?[0-9]+$ ]]; then
+    echo "$TEST_NUM is an integer."
+    if (( TEST_NUM > MIN_VAL && TEST_NUM < MAX_VAL )) ; then
+        echo "$TEST_NUM is in the range of $MIN_VAL to $MAX_VAL."    
+    else 
+        echo "$TEST_NUM is out of range."
+    fi
+else 
+    echo "It is not an integer. "  >&2; 
+    exit 1
+fi

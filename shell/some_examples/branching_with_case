@@ -1,0 +1,15 @@
+#!/bin/bash
+# Branching with case 
+
+while true; do 
+    read -p "Enter an character, 0 to quit:" 
+    case $REPLY in 
+        *)              echo "Your input is $REPLY."
+        ;;&
+        [[:alpha:]])    echo "Your input is an alpha."
+        ;;&
+        0)              echo "quit! See you!"
+        break
+        ;;&
+    esac
+done    
