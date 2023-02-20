@@ -1,0 +1,26 @@
+#!/bin/bash
+# longest-length: Length of the longest string in a file.
+
+while [[ -n $1 ]]; do
+    if [[ -r $1 && -f $1 ]]; then 
+        #echo "$1"
+        max_length=0
+        for i in $(strings $1); do
+            #echo $i
+            #length=$(echo $i | wc -c)
+            length=${#i}
+            if (( length > max_length )); then
+               max_length=$length
+            fi
+        done
+        echo "In file $1: the length of the longest string is $max_length."
+    else 
+        echo "'$1' not a file or can't read." >&2
+        exit 1
+    fi
+    shift
+done
+
+
+
+

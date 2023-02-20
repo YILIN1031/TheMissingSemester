@@ -1,0 +1,4 @@
+#!/bin/bash
+# This is our first scripts
+echo "$(basename $0)"
+echo 'hello world!'
