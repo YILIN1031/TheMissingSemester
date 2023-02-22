@@ -1,8 +1,19 @@
 # Github 
 
-Reference Links: 
-[Online Markdown editor](https://stackedit.io/),
+## Reference Links
+
+[Online Markdown editor](https://stackedit.io/)
+
 [Quick Start](https://docs.github.com/en/get-started/quickstart)
+
+[Github Glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)
+
+[Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
+
+[GitHub Training Manual](https://githubtraining.github.io/training-manual/#/)
+
+[On-demand training courses](https://skills.github.com/)
+
 
 ## Hello World
 [hello world](https://docs.github.com/en/get-started/quickstart/hello-world)
@@ -19,11 +30,8 @@ Reference Links:
 **3. Connecting SSH**
 [Generate new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
-## Change Submitted Commit
- [How to modify](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message)
- 
-## GitHub glossary
-[Terminology search](https://docs.github.com/en/get-started/quickstart/github-glossary)
+## Solution
 
-## Git cheatsheet
-[Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
+### ...
+
+
