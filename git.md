@@ -8,9 +8,9 @@
 
 [Interactive Guide](https://learngitbranching.js.org/)
 
-[About Git](https://docs.github.com/en/get-started/using-git/about-git#example-contribute-to-an-existing-repository)
+[Git Cheat Sheets](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
-[Git Cheat Sheets(PDF)](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+[About Git](https://docs.github.com/en/get-started/using-git/about-git)
 
 ## Some examples from Github docs
 
@@ -41,10 +41,13 @@ Delta compression using up to 4 threads, git cannot push
 Solution ways:
 
 [Increase the buffer](https://developercommunity.visualstudio.com/t/i-cannot-push/358360)
+
 ~~~
 git config --global --unset http.postBuffer 524288000
 ~~~
+
 [Remove the previous commits](https://stackoverflow.com/questions/70968685/git-push-failure)
+
 ~~~
 git reset --soft HEAD~n
 ~~~
