@@ -20,6 +20,8 @@
 
 ## Set Git 
 
+> **IMPORTANT**: need to install [WSL2](https://learn.microsoft.com/en-us/windows/wsl/install) firstly
+
 **1. Install**
 	[download for Linux](https://git-scm.com/download/linux)
 	
