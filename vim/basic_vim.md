@@ -6,6 +6,10 @@
 $ vimtutor
 ~~~
 
+[The missing semester - Vim editors](https://missing.csail.mit.edu/2020/editors/)
+
+[Initial config](https://missing.csail.mit.edu/2020/files/vimrc)
+
 ## Basic
 
 ### **Move**
