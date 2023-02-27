@@ -16,15 +16,7 @@
 
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 
-## Some examples from Github docs
-
-[Contribute to an existing repository](https://docs.github.com/en/get-started/using-git/about-git#example-contribute-to-an-existing-repository)
-
-[Start a new repository and publish it to GitHub](https://docs.github.com/en/get-started/using-git/about-git#example-start-a-new-repository-and-publish-it-to-github)
-
-[Contribute to an existing branch on GitHub](https://docs.github.com/en/get-started/using-git/about-git#example-contribute-to-an-existing-branch-on-github)
-
-## Teamwork
+### Teamwork
 
 [Contributing to projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
 
