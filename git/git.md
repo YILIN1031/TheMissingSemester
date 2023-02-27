@@ -14,6 +14,8 @@
 
 [Adding locally hosted code to GitHub](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)
 
+[How to Write a Git Commit Message](https://cbea.ms/git-commit/)
+
 ## Some examples from Github docs
 
 [Contribute to an existing repository](https://docs.github.com/en/get-started/using-git/about-git#example-contribute-to-an-existing-repository)
