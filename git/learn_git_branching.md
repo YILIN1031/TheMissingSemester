@@ -28,6 +28,10 @@ Using `checkout` to attach the HEAD to a commit instead of a branch (HEAD point 
 
 `git branch -f main HEAD~3` means moving (by force) the main branch to three parents behind HEAD.
 
+### Reversing Changes 
+
+`git reset` or `git revert`
+
 ## Remote
 
 ## Troubleshooting 
