@@ -20,11 +20,11 @@ Changing the base from one commit to another one for the current branch. Suppose
 ### About HEAD
 HEAD can be seen as a pointer, It can point both commits and branches. 
 
-**Detaching HEAD**:
+**Detaching HEAD:**
 
 Using `checkout` to attach the HEAD to a commit instead of a branch (HEAD point the branches in default situation).
 
-**About `~`**:
+**About `~`:**
 
 `git branch -f main HEAD~3` means moving (by force) the main branch to three parents behind HEAD.
 
