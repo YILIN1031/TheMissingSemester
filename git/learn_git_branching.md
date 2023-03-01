@@ -15,7 +15,7 @@ Start a branch, which means including the current commit and its parent commits.
 
 ### rebase
 
-Changing the base from one commit to another one for the current branch. Suppose we have two branches, `main` and `bugFix` with the latest commit `Here is main` and `Fix a bug` respectively. Now we switch to the branch `bugFix`, through run command `git rebase main`, we can merge two branches to a new, sequential branch, and now commit `Here is main` is become the parent of `Fix a bug`. Next, we run `git checkout main; git rebase bugFix` to go to the branch `main` and continue our work. 
+Changing the base from one commit to another one for the current branch.  
 
 ### About HEAD
 HEAD is the symbolic name for the currently checked out commit. And HEAD always points to the most recent commit which is reflected in the working tree.
