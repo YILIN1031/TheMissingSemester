@@ -28,6 +28,6 @@ Drag and drop to insert links and images: **Shift & Start dropping**
 
 [Install on WSL](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-pdf)
 
-## Open a file from explorer
+## Git Graph 
 
-[Open from explorer](https://marketplace.visualstudio.com/items?itemName=Ottomated.xdg-open-explorer)
+[Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
