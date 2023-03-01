@@ -41,6 +41,7 @@ Using `checkout` to attach the HEAD to a commit instead of a branch (HEAD points
 ### Modifying the source tree
 
 For modifying source tree in working, `cherry-pick` and `rebase -i` are useful. 
+
 **Usage:**
 ~~~
 git cherry-pick C5 C3 C4
