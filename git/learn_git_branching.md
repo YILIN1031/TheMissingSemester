@@ -38,6 +38,15 @@ Using `checkout` to attach the HEAD to a commit instead of a branch (HEAD points
 
 `git reset` moves your active branch (HEAD) to the specified commit.
 
+### Modifying the source tree
+
+For modifying source tree in working, `cherry-pick` and `rebase -i` are useful. 
+**Usage:**
+~~~
+git cherry-pick C5 C3 C4
+git rebase -i HEAD~3
+~~~
+
 ## Remote
 
 ## Troubleshooting 
