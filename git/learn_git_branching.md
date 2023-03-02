@@ -79,5 +79,10 @@ if a branch named `origin/main` (**`<remote name>/<branch name>`**), the branch 
 * downloads the commits that the remote has but are missing from our local repository
 * updates where remote branches point (for instance, origin/main)
 
+### Continue 
+
+**git remote set-head origin other_remote_branch** 
+**git push origin HEAD:other_remote_branch** 
+
 ## Troubleshooting 
 [Turn to solutions](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#troubleshooting)
