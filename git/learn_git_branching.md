@@ -68,5 +68,9 @@ Without adding arguments, git will show HEAD default.
 
 Remote branches are on your local repository, not on the remote repository.
 
+### What is `origin/`
+
+`<remote name>/<branch name>`, the branch name is `main` and the name of the remote is `origin`.
+
 ## Troubleshooting 
 [Turn to solutions](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#troubleshooting)
