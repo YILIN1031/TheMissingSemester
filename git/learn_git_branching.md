@@ -72,5 +72,12 @@ Remote branches are on your local repository, not on the remote repository.
 
 if a branch named `origin/main` (**`<remote name>/<branch name>`**), the branch name is `main` and the name of the remote is `origin`.
 
+### `git fetch`
+
+`git fetch` performs two main steps, and two main steps only.
+
+* downloads the commits that the remote has but are missing from our local repository
+* updates where remote branches point (for instance, origin/main)
+
 ## Troubleshooting 
 [Turn to solutions](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#troubleshooting)
