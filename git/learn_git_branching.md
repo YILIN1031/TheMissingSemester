@@ -82,6 +82,7 @@ if a branch named `origin/main` (**`<remote name>/<branch name>`**), the branch 
 ### Continue 
 
 **git remote set-head origin other_remote_branch** 
+
 **git push origin HEAD:other_remote_branch** 
 
 ## Troubleshooting 
