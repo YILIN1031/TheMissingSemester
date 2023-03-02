@@ -31,3 +31,5 @@ Drag and drop to insert links and images: **Shift & Start dropping**
 ## Git Graph 
 
 [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
+`Shift + Ctrl + p`: Git Graph: ...
