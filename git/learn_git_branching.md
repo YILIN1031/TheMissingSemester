@@ -64,5 +64,9 @@ Without adding arguments, git will show HEAD default.
 
 ## Remote
 
+### Git Remote Branches
+
+Remote branches are on your local repository, not on the remote repository.
+
 ## Troubleshooting 
 [Turn to solutions](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#troubleshooting)
