@@ -58,7 +58,7 @@ git rebase -i HEAD~3
 
 ### See the description of a commit 
 
-`git describe your_commit`
+`git describe your_commit`, It is necessary to creat a `tag` for a commit before run `describe`. 
 
 Without adding arguments, git will show HEAD default. 
 
