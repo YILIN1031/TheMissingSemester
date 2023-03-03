@@ -90,15 +90,15 @@ if a branch named `origin/main` (**`<remote name>/<branch name>`**), the branch 
 ### A separate development branch 
 
 1. Create a new branch `dev` from `main` in Github, and do `git pull`, `git branch -a` to confirm the new remote branch is in your local repository. 
-2. `git checkout -b dev` to create the development branch. 
+2. `git checkout -b dev origin/dev` to create the development branch. (Or `git branch -u origin/dev dev`)
 3. Begin working...
 4. `git add .` & `git commit -m "..."` 
-5. Push your work from local dev to remote dev: `git push origin dev` 
-6. Merge your work to `origin/main`. 
+5. Push your work from local dev to remote dev: `git push` 
+7. Merge your work to `origin/main`. 
 
    Firstly, `git pull origin main`, make sure everything is the newest. Next, `git checkout main` and `git merge origin/dev`. Finally, `git push origin main`.
    
-   (Or you can merge in Github)
+   (Or you can merge in Github directly)
 
 ## Troubleshooting 
 [Turn to solutions](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#troubleshooting)
