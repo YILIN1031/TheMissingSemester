@@ -96,7 +96,9 @@ if a branch named `origin/main` (**`<remote name>/<branch name>`**), the branch 
 5. Push your work from local dev to remote dev: `git push origin dev` 
 6. Merge your work to `origin/main`. 
 
-   Firstly, `git pull origin main`, make sure everything is the newest. Next `git checkout main` and `git merge origin/dev`. Finally `git push origin main`. 
+   Firstly, `git pull origin main`, make sure everything is the newest. Next, `git checkout main` and `git merge origin/dev`. Finally, `git push origin main`.
+   
+   (Or you can merge in Github)
 
 ## Troubleshooting 
 [Turn to solutions](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#troubleshooting)
