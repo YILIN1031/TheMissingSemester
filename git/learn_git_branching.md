@@ -99,6 +99,8 @@ if a branch named `origin/main` (**`<remote name>/<branch name>`**), the branch 
    Firstly, `git pull origin main`, make sure everything is the newest. Next, `git checkout main` and `git merge origin/dev`. Finally, `git push origin main`.
    
    (Or you can merge in Github directly)
+   
+> **[Turn to Teamwork](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#teamwork)**
 
 ## Troubleshooting 
 [Turn to solutions](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#troubleshooting)
