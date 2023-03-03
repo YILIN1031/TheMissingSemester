@@ -79,13 +79,24 @@ if a branch named `origin/main` (**`<remote name>/<branch name>`**), the branch 
 * downloads the commits that the remote has but are missing from our local repository
 * updates where remote branches point (for instance, origin/main)
 
-### Set specify remote head, push something to it, and delete it 
+### Specify remote head. Push. Delete. 
 
 `git remote set-head origin other_remote_branch` 
 
 `git push origin HEAD:other_remote_branch` 
 
-`git branch -d -r origin/other_remote_branch`
+`git branch -d -r origin/other_remote_branch` 
+
+### A separate development branch 
+
+1. Create a new branch `dev` from `main` in Github, and do `git pull`, `git branch -a` to confirm the new remote branch is in your local repository. 
+2. `git checkout -b dev` to create the development branch. 
+3. Begin working...
+4. `git add .` & `git commit -m "..."` 
+5. Push your work from local dev to remote dev: `git push origin dev` 
+6. Merge your work to `origin/main`. 
+
+   Firstly, `git pull origin main`, make sure everything is the newest. Next `git checkout main` and `git merge origin/dev`. Finally `git push origin main`. 
 
 ## Troubleshooting 
 [Turn to solutions](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#troubleshooting)
