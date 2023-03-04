@@ -1,6 +1,8 @@
 # Pro Git, Study notes
 [Book: Pro Git](https://git-scm.com/book/en/v2)
 
+## Getting Started
+
 ## Git Basics
 
 ## Git Branching 
