@@ -77,6 +77,16 @@ If you want to push your master branch to your origin server (again, cloning gen
 
 `git push origin master`
 
+Inspecting a Remote: 
+
+`git remote show <remote>`
+
+Renaming remotes:
+
+You can run git remote rename to change a remote’s shortname. For instance, if you want to rename pb to paul, you can do so with:
+
+`git remote rename pb paul`
+
 ## Git Branching 
 
 [Interactive Guide - Learn Git Branching](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/learn_git_branching.md)
