@@ -66,7 +66,7 @@ $ git commit --amend
 show the remote:
 
 `git remote -v`
-git push origin master
+
 adding:
 
 `git remote add <shortname> <url>` and then `git fetch <shortname>` 
