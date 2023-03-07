@@ -3,6 +3,14 @@
 
 ## Git Basics
 
+### Checking the Status of Your Files
+
+`git status`
+
+### Ignoring Files
+
+
+
 ## Git Branching 
 
 [Interactive Guide - Learn Git Branching](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/learn_git_branching.md)
