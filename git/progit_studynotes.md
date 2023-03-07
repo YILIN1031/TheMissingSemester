@@ -35,7 +35,7 @@ doc/**/*.pdf
 
 `git rm` & `git mv`
 
-### See the Git Graph
+### See the the commit history in graph
 
 Use command `git log --graph` or install the visual extension in VSCode, [here](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) 
 
