@@ -85,6 +85,10 @@ Renaming remotes & remove:
 
 You can run `git remote rename` to change a remote’s shortname. And `git remote remove` for removing the remotes. 
 
+### Tagging
+
+`git tag -h`
+
 ## Git Branching 
 
 [Interactive Guide - Learn Git Branching](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/learn_git_branching.md)
