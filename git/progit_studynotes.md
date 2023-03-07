@@ -35,6 +35,14 @@ doc/**/*.pdf
 
 `git rm` & `git mv`
 
+### See the Git Graph
+
+Use command `git log --graph` or install the visual extension in VSCode, [here](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) 
+
+### Preventing the display of merge commits
+
+Depending on the workflow used in your repository, it’s possible that a sizable percentage of the commits in your log history are just merge commits, which typically aren’t very informative. To prevent the display of merge commits cluttering up your log history, simply add the log option `--no-merges`.
+
 ## Git Branching 
 
 [Interactive Guide - Learn Git Branching](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/learn_git_branching.md)
