@@ -61,6 +61,22 @@ $ git commit --amend
 
 [Git Basics - Undoing Things](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
 
+### Remote introduction
+
+show the remote:
+
+`git remote -v`
+git push origin master
+adding:
+
+`git remote add <shortname> <url>` and then `git fetch <shortname>` 
+
+pushing: 
+
+If you want to push your master branch to your origin server (again, cloning generally sets up both of those names for you automatically), then you can run this to push any commits you’ve done back up to the server.
+
+`git push origin master`
+
 ## Git Branching 
 
 [Interactive Guide - Learn Git Branching](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/learn_git_branching.md)
