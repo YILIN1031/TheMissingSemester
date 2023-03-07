@@ -20,7 +20,7 @@
 
 [Contributing to projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
 
-## Troubleshooting
+Troubleshooting
 
 ### Change Submitted Commit
 
