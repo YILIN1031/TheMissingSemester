@@ -83,9 +83,7 @@ Inspecting a Remote:
 
 Renaming remotes:
 
-You can run git remote rename to change a remote’s shortname. For instance, if you want to rename pb to paul, you can do so with:
-
-`git remote rename pb paul`
+You can run git remote rename to change a remote’s shortname. For instance, if you want to rename pb to paul, you can do so with `git remote rename pb paul`. 
 
 ## Git Branching 
 
