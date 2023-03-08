@@ -25,6 +25,10 @@ This replaces your `bad-branch-name` with `corrected-branch-name`, but this chan
 
 `git push --set-upstream origin corrected-branch-name`
 
+After you’ve done all these tasks, and are certain the main branch performs just as the master branch, you can delete the master branch:
+
+`$ git push origin --delete bad-branch-name`
+
 ### rebase
 
 Changing the base from one commit to another one for the current branch.  
