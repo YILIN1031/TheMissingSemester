@@ -85,6 +85,8 @@ Without adding arguments, git will show HEAD default.
 
 Remote branches are on your local repository, not on the remote repository.
 
+`git remote show <remote>` 
+
 ### What is `origin/`
 
 if a branch named `origin/main` (**`<remote name>/<branch name>`**), the branch name is `main` and the name of the remote is `origin`.
@@ -103,6 +105,18 @@ if a branch named `origin/main` (**`<remote name>/<branch name>`**), the branch 
 `git push origin HEAD:other_remote_branch` 
 
 `git branch -d -r origin/other_remote_branch` 
+
+### See the tracking branches
+
+If you want to see what tracking branches you have set up, you can use the -vv option to git branch. This will list out your local branches with more information including what each branch is tracking and if your local branch is ahead, behind or both.
+
+~~~
+$ git branch -vv
+  iss53     7e424c3 [origin/iss53: ahead 2] Add forgotten brackets
+  master    1ae2a45 [origin/master] Deploy index fix
+* serverfix f8674d9 [teamone/server-fix-good: ahead 3, behind 1] This should do it
+  testing   5ea463a Try something new
+~~~
 
 ### A separate development branch 
 
