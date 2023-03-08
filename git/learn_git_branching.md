@@ -13,6 +13,8 @@ Commit usually means a set of changes in practical working, which can be seen as
 
 Start a branch, which means including the current commit and its parent commits. Using the command `git checkout branch_name` to switch to different branches for your work. 
 
+Create a new branch and switch to it: `git checkout -b <newbranchname>`
+
 ### rebase
 
 Changing the base from one commit to another one for the current branch.  
