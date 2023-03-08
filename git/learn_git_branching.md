@@ -10,6 +10,7 @@
 Commit usually means a set of changes in practical working, which can be seen as a new version of the current project. 
 
 ### branch 
+> [Git Branching - Branch Management](https://git-scm.com/book/en/v2/Git-Branching-Branch-Management)
 
 Start a branch, which means including the current commit and its parent commits. Using the command `git checkout branch_name` to switch to different branches for your work. 
 
