@@ -13,7 +13,17 @@ Commit usually means a set of changes in practical working, which can be seen as
 
 Start a branch, which means including the current commit and its parent commits. Using the command `git checkout branch_name` to switch to different branches for your work. 
 
-Create a new branch and switch to it: `git checkout -b <newbranchname>`
+Create a new branch and switch to it:
+
+`git checkout -b <newbranchname>`
+
+Changing a branch name: 
+
+`git branch --move bad-branch-name corrected-branch-name`
+
+This replaces your `bad-branch-name` with `corrected-branch-name`, but this change is only local for now. To let others see the corrected branch on the remote, push it using: 
+
+`git push --set-upstream origin corrected-branch-name`
 
 ### rebase
 
