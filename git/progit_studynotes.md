@@ -85,6 +85,19 @@ Renaming remotes & remove:
 
 You can run `git remote rename` to change a remote’s shortname. And `git remote remove` for removing the remotes. 
 
+~~~
+$ git remote rename pb paul
+$ git remote
+origin
+paul
+~~~
+
+~~~
+$ git remote remove paul
+$ git remote
+origin
+~~~
+
 ### Tagging
 
 `git tag -h`
