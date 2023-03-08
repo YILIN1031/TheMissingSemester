@@ -27,8 +27,6 @@ Drag and drop to insert links and images: **Shift & Start dropping**
 
 [Install on local](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
 
-[Install on WSL](https://marketplace.visualstudio.com/items?itemName=analytic-signal.preview-pdf)
-
 ## Git Graph 
 
 [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
