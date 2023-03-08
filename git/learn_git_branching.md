@@ -33,7 +33,7 @@ After you’ve done all these tasks, and are certain the main branch performs ju
 ### rebase
 
 Changing the base from one commit to another one for the current branch.  
-> You can get the best of both worlds: rebase local changes before pushing to clean up your work, but never rebase anything that you’ve pushed somewhere.
+> Rebase local changes before pushing to clean up your work, but never rebase anything that you’ve pushed somewhere.
 
 ### About HEAD
 HEAD is the symbolic name for the currently checked out commit. And HEAD always points to the most recent commit which is reflected in the working tree.
