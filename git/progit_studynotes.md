@@ -110,7 +110,9 @@ origin
 
 ### Contributing to a Project
 
-...
+the simplest situation: two people collaboration
+
+![General sequence of events for a simple multiple-developer Git workflow](https://git-scm.com/book/en/v2/images/small-team-flow.png)
 
 ## Troubleshooting 
 [Turn to solutions](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#troubleshooting)
