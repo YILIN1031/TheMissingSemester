@@ -124,8 +124,7 @@ Private Managed Team:
 ...
 
 ## Git Tools
-
-### ...
+> [Reference Link](https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection)
 
 ...
 
