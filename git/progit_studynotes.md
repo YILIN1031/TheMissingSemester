@@ -126,7 +126,7 @@ Private Managed Team:
 ## Git Tools
 > [Reference Link](https://git-scm.com/book/en/v2/Git-Tools-Revision-Selection)
 
-...
+keywords: Revision Selection, Interactive Staging, Rewriting History, Reset Demystified
 
 ## Troubleshooting 
 [Turn to solutions](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#troubleshooting)
