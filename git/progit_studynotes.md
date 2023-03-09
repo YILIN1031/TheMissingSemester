@@ -119,5 +119,11 @@ Private Managed Team:
 
 ![Private Managed Team](https://git-scm.com/book/en/v2/images/managed-team-flow.png)
 
+### Maintaining a Project 
+
+### ...
+
+...
+
 ## Troubleshooting 
 [Turn to solutions](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#troubleshooting)
