@@ -109,6 +109,7 @@ origin
 ## Distributed Git
 
 ### Contributing to a Project
+> [referenct link](https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project)
 
 the simplest situation: two people collaboration
 
