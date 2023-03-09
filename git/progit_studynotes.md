@@ -121,8 +121,6 @@ Private Managed Team:
 
 ### Maintaining a Project 
 
-### ...
-
 ...
 
 ## Troubleshooting 
