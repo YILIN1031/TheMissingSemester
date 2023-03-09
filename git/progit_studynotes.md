@@ -123,5 +123,11 @@ Private Managed Team:
 
 ...
 
+## Git Tools
+
+### ...
+
+...
+
 ## Troubleshooting 
 [Turn to solutions](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/git.md#troubleshooting)
