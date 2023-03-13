@@ -20,6 +20,8 @@
 
 [Contributing to projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
 
+https://nvie.com/posts/a-successful-git-branching-model/
+
 ## Troubleshooting
 
 ### Change Submitted Commit
