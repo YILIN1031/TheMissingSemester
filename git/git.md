@@ -16,6 +16,10 @@
 
 [How to Write a Git Commit Message](https://cbea.ms/git-commit/)
 
+### Pro Git
+
+[Pro Git](https://github.com/YILIN1031/TheMissingSemester/blob/main/git/progit_studynotes.md#pro-git-study-notes)
+
 ### Teamwork
 
 [Contributing to projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
