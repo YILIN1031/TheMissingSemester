@@ -22,6 +22,8 @@
 
 https://nvie.com/posts/a-successful-git-branching-model/
 
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
 ## Troubleshooting
 
 ### Change Submitted Commit
