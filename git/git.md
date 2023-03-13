@@ -26,6 +26,8 @@ https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 ## Troubleshooting
 
+https://ohshitgit.com/en
+
 ### Change Submitted Commit
 
 [How to modify](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message)
